@@ -10,7 +10,7 @@ The original project was inspired by the [Arduino Simple Simon Says Game](https:
 1. [Soldering Iron](https://www.amazon.com/Weller-WLC100-40-Watt-Soldering-Station/dp/B000AS28UC/ref=sr_1_6?s=hi&ie=UTF8&qid=1519754525&sr=1-6&keywords=soldering+iron)
 2. [Digital Multimeter for Continuity Testing](https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B01N9QW620/ref=sr_1_7?ie=UTF8&qid=1519754367&sr=8-7&keywords=digital+multimeter)
 3. 5V Power Supply or [A Tool to Get 5V from your USB Port](https://www.ebay.com/i/292433553345?chn=ps)
-4. [Wire Stripping and Cutting Tool] (https://www.amazon.com/Stripping-Gripping-Comfortable-Klein-Tools/dp/B00080DPNQ/ref=pd_bxgy_469_img_2?_encoding=UTF8&pd_rd_i=B00080DPNQ&pd_rd_r=R5R4DH3KN62FTZ9871V9&pd_rd_w=hqE2R&pd_rd_wg=Focz1&psc=1&refRID=R5R4DH3KN62FTZ9871V9)
+4. [Wire Stripping and Cutting Tool](https://www.amazon.com/Stripping-Gripping-Comfortable-Klein-Tools/dp/B00080DPNQ/ref=pd_bxgy_469_img_2?_encoding=UTF8&pd_rd_i=B00080DPNQ&pd_rd_r=R5R4DH3KN62FTZ9871V9&pd_rd_w=hqE2R&pd_rd_wg=Focz1&psc=1&refRID=R5R4DH3KN62FTZ9871V9)
 5. [Crimper](https://www.amazon.com/Thomas-Betts-WT111M-Insulated-Terminals/dp/B0018LD2PU)
 
 ## Components Needed
