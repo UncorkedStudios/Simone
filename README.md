@@ -14,10 +14,10 @@ The original project was inspired by the [Arduino Simple Simon Says Game](https:
 5. [Crimper](https://www.amazon.com/Thomas-Betts-WT111M-Insulated-Terminals/dp/B0018LD2PU)
 
 ## Components Needed
-1. Arcade Buttons X 4 (4 different colors)
-2. Arduino Nano X 1
+1. [Arcade Buttons X 4 (4 different colors)](https://www.amazon.com/BLEE-Square-Arcade-Illuminated-Microswitch/dp/B01M4IT5B7/ref=sr_1_2?ie=UTF8&qid=1519755863&sr=8-2&keywords=arcade+buttons+led+square)
+2. [Arduino Nano X 1](https://www.amazon.com/Arduino-Elegoo-ATmega328P-without-compatible/dp/B071NMBP4S/ref=sr_1_3?ie=UTF8&qid=1519755811&sr=8-3&keywords=arduino%2Bnano&th=1)
 3. Male Headers (usually come with Arduino) 15 Pin X 2 pieces
-4. [Ribbon Cable X 11]
+4. [Ribbon Cable X 11](https://www.amazon.com/uxcell-Female-Jumper-Ribbon-Breadboard/dp/B01M1CDI7M/ref=sr_1_7?ie=UTF8&qid=1519755552&sr=8-7&keywords=female+ribbon+cable)
 5. [Wago Nut X 3](https://www.amazon.com/Wago-221-415-LEVER-NUTS-Conductor-Connectors/dp/B06XH47DC2/ref=sr_1_9?ie=UTF8&qid=1519755513&sr=8-9&keywords=wago%2Bnut&th=1)
 6. [Resistors - 1K Ohm X 4](https://www.amazon.com/Watt-Carbon-Film-Resistors-pack/dp/B00EV2QC96/ref=sr_1_3?ie=UTF8&qid=1519755490&sr=8-3&keywords=resistors+1k+ohm)
 7. [Spade Terminals X 16](https://www.amazon.com/Baomain-Insulated-Connector-Electrical-Terminal/dp/B01N0M6PP1/ref=sr_1_9?ie=UTF8&qid=1519755456&sr=8-9&keywords=spade+terminals+female)
