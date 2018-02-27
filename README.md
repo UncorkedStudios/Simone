@@ -22,6 +22,11 @@ The original project was inspired by the [Arduino Simple Simon Says Game](https:
 6. [Resistors - 1K Ohm X 4](https://www.amazon.com/Watt-Carbon-Film-Resistors-pack/dp/B00EV2QC96/ref=sr_1_3?ie=UTF8&qid=1519755490&sr=8-3&keywords=resistors+1k+ohm)
 7. [Spade Terminals X 16](https://www.amazon.com/Baomain-Insulated-Connector-Electrical-Terminal/dp/B01N0M6PP1/ref=sr_1_9?ie=UTF8&qid=1519755456&sr=8-9&keywords=spade+terminals+female)
 8. [USB Wall Charger](https://www.amazon.com/Charger-Insten-Mini-USB-Travel-Motorola/dp/B00QGG7WKS/ref=sr_1_4?ie=UTF8&qid=1519755388&sr=8-4&keywords=wall+charger+usb+mini)
+
+##Computer Setup
+1. [Arduino Integrated Development Environment (IDE) Setup](https://www.arduino.cc/en/Guide/HomePage)
+2. [Install USB Drivers for Arduino](/Drivers)
+3. [Clone this repository](https://help.github.com/articles/cloning-a-repository/)
  
 
 ## Build Instructions
